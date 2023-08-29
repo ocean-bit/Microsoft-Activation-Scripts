@@ -1,12 +1,15 @@
-## Microsoft  Activation  Scripts (MAS):
+<p align="center"><img src="https://raw.githubusercontent.com/massgravel/mas-docs/main/logo.png" alt="MAS Logo" height="128"></p>
 
-A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+<h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
+
+<p align="center">A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</p>
+<hr>
 
 ## Download / How to use it?
 
 ### Method 1 - PowerShell (Recommended)
 
--   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
+-   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     `irm https://massgrave.dev/get | iex`
 -   You will see the activation options, and follow onscreen instructions.
@@ -15,7 +18,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 ### Method 2 - Traditional
 
 -   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
--   Right click on the downloaded zip file and extract
+-   Right-click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options, and follow onscreen instructions.
